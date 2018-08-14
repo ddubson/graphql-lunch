@@ -4,6 +4,10 @@ This is a place to share what we learn with the group.
 
 PRs welcome!
 
+# GraphQL in Spring
+- [Steve's blog post](https://medium.com/@ssolomon/writing-a-graphql-endpoint-in-spring-73fbe156c297)
+- [Sample code repository](https://github.com/steven-solomon/graphql/tree/blog-post)
+
 # GraphQL since 2016
 
 - New version of the [spec](http://facebook.github.io/graphql/) introduces subscriptions

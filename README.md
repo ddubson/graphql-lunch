@@ -6,7 +6,9 @@ PRs welcome!
 
 # GraphQL in Spring
 - [Steve's blog post](https://medium.com/@ssolomon/writing-a-graphql-endpoint-in-spring-73fbe156c297)
-- [Sample code repository](https://github.com/steven-solomon/graphql/tree/blog-post)
+- Repositories
+  - [Sample code repository](https://github.com/steven-solomon/graphql/tree/blog-post)
+  - [GraphQL from Scratch](https://github.com/ddubson/graphql-from-scratch)
 
 # GraphQL since 2016
 
